@@ -1,0 +1,76 @@
+body {
+	background-color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
+	text-align: left;
+	font-family: 'Bubblegum Sans', cursive;
+}
+h1 {
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	font-family: 'Rock Salt', cursive;
+	margin-top: 10px;
+	text-align: center;
+}
+h2{
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-align: center;
+}
+h3{
+	background-color: rgba(0,0,0,.75);
+	position: absolute;
+	bottom: 38px;
+	margin: 0;
+}
+
+a {
+	color: rgba(250,55,250,1);
+}
+p {
+	background-color: rgba(0,0,0,.75);
+	margin-top: -20px;
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+}
+div {
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  margin:0 auto;
+  border-radius: 10px;
+  max-width: 600px;
+  margin-top: 40px;
+
+}
+img {
+	padding: 0 auto;
+}
+.home {
+	background-image: url("http://illinoisbankruptcyattorney.cc/wp-content/uploads/geneva_illinois.jpg");
+}
+.school {
+	background-image: url("http://www.bengreenberg.com/new-information%20for%20revised%20web%20site-sept-2010/uva-brp-snp/web%20pop-up%20images%20C/UVA/uva_pan-lawn-102.jpg");\
+}
+.work {
+	background-image: url("http://i.imgur.com/dbkmcIT.png");	
+
+}
+.music{
+	background-image: url("http://i.imgur.com/paK2Dns.png");
+	background-size: 600px 120px;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.running{
+	background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/a0/Shaftesbury_Estates_running_path.png");
+}
+.reading{
+	background-image: url("http://www.bahr.net.nz/wp-content/uploads/2013/07/Bookshelf-2.jpg");
+}
+.subtitle{
+	font-size: 20px;
+	font-style: bold;
+	
+}
